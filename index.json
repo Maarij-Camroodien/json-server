@@ -1,0 +1,19 @@
+{
+    "cars":[
+        {
+            "name": "Nissan",
+            "model": "Skyline",
+            "price": "R1 200 000"
+        },
+        {
+            "name": "Toyota",
+            "model": "Supra",
+            "price": "R1 300 000"
+        },
+        {
+            "name": "BMW",
+            "model": "M4",
+            "price": "R600 000"
+        }
+    ]
+}
