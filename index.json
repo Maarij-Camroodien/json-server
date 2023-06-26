@@ -3,17 +3,20 @@
         {
             "name": "Nissan",
             "model": "Skyline",
-            "price": "R1 200 000"
+            "price": "R1 200 000",
+            "image": "https://i.postimg.cc/jjLm6RcS/wallpaperflare-com-wallpaper-12.jpg"
         },
         {
             "name": "Toyota",
             "model": "Supra",
-            "price": "R1 300 000"
+            "price": "R1 300 000",
+            "image": "https://i.postimg.cc/JhFwSs0X/wallpaperflare-com-wallpaper-11.jpg"
         },
         {
             "name": "BMW",
             "model": "M4",
-            "price": "R600 000"
+            "price": "R600 000",
+            "image": "https://i.postimg.cc/SK1qqZTJ/wallpaperflare-com-wallpaper-10.jpg"
         }
     ]
 }
